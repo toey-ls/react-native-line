@@ -34,7 +34,7 @@
     "test:ts": "tsc --noEmit"
   },
   "peerDependencies": {
-    "react": "^16.0",
+    "react": ">=17.0.1",
     "react-native": ">=0.61.1"
   },
   "devDependencies": {
